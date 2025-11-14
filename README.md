@@ -1,3 +1,7 @@
+# Description
+
+Hi! I created this project to develop my full-stack engineering skills. While running the front end and the back end, you can prompt the application with any phrase, and it will return to you with the sentiment and emotional state of the phrase, including a rated score.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
